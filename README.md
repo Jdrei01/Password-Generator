@@ -8,11 +8,11 @@ The purpose of a password generator is to create a random, strong and secure pas
 2. Click "Generate Password" and the website will generate a secured and random passwords based on your preferences.
 
 # Website
-![Website](image-1.png)
+https://jdrei01.github.io/password-generator/
+
+# Screenshot
+![Alt text](image-1.png)
 
 # Credits
 Created by Jandrei Timoteo with the help of Instructor Diarmuid Murphy and Tutor Sheetal Bangalore Srikumar.
 Starter code is retrieved from https://github.com/coding-boot-camp/friendly-parakeet
-
-
-
