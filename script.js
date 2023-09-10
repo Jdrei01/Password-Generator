@@ -15,6 +15,11 @@ function generatePasswordChoices() {
 
   var length = prompt('enter length at least 8 characters and no more than 128 characters')
   // if length is less than 8 or more than 128 thru an error.
+  if (length < 8 || length > 128) {
+    alert('Please choose a appropriate password length 8- 128')
+    return null
+  }
+
 
   console.log(length)
   var lowercase = confirm('Do you want a lower case or no?')
