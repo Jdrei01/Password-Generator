@@ -11,7 +11,7 @@ The purpose of a password generator is to create a random, strong and secure pas
 https://jdrei01.github.io/password-generator/
 
 # Screenshot
-![screenshot of website](./images/Password-Generator.png)
+![screenshot of website](./assets/images/Password-Generator.png)
 
 # Credits
 Created by Jandrei Timoteo with the help of Instructor Diarmuid Murphy and Tutor Sheetal Bangalore Srikumar.
